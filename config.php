@@ -1,0 +1,6 @@
+<?php
+$db_host = 'REPLACE_IT_TO_DATABASE_HOST';
+$db_name = 'REPLACE_IT_TO_DATABASE_NAME';
+$db_user = 'REPLACE_IT_TO_DATABASE_USER';
+$db_pwd = 'REPLACE_IT_TO_USER_PASSWORD';
+?>
