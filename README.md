@@ -1,2 +1,2 @@
 # netlibrary
-CMS для библиотеки
+CMS for library
